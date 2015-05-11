@@ -1,4 +1,4 @@
 "SRGVersionUpdater.alert.title" = "アップデートがあります";
-"SRGVersionUpdater.alert.body" = "最新バージョンのアプリが公開されています。AppStoreで最新のアプリにアップデートしましょう！";
-"SRGVersionUpdater.alert.updateButton" = "AppStoreへ";
+"SRGVersionUpdater.alert.body" = "最新バージョンのアプリが公開されています。App Storeで最新のアプリにアップデートしましょう！";
+"SRGVersionUpdater.alert.updateButton" = "App Storeへ";
 "SRGVersionUpdater.alert.calcelButton" = "あとで";
